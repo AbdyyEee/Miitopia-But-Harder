@@ -1,3 +1,4 @@
+# Enemy,HP,MP,Attack,Defense,Magic,Speed,Level,Gold,EXP,Food1,Chance,Food2,chance,Food3,Chance
 Mimit4,30,0,26,10,0,13,6,30,22,Mimit00,0,Mimit01,0,Mimit02,0,,,,,,,,,,,,,,,
 Slime0,10,0,7,7,0,6,1,0,9,Slime00,100,Slime01,0,Slime02,0,,,,,,,,,,,,,,,
 Butterfly0,12,0,12,9,0,11,1,5,2,Butterfly00,45,Butterfly01,5,Butterfly02,0,,,,,,,,,,,,,,,
