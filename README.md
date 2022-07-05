@@ -28,7 +28,9 @@ Drag the `romfs` from the extracted zip into that folder. <br> <br>
 Now you can launch Miitopia and play the mod.
 
 # Want to contribute?
-Just edit a csv and make a pull request lol.
+Just edit a csv and make a pull request lol. <br>
+You can use this sheet to refer to what each csv files contains.
+https://docs.google.com/spreadsheets/d/1dGGXvCCSac0z-NZ3-5-QtMc-fa3f46HvJNMhnrN7Igw/edit#gid=2128008231
 
 # Credits 
 Ram2424: Helped a lot with balancing stats for enemies. <br> <br>
