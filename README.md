@@ -27,7 +27,8 @@ On your SD Card, navigate to  a folder called ```luma\titles\```. <br> If this f
 Drag the `romfs` from the extracted zip into that folder. <br> <br>
 Now you can launch Miitopia and play the mod.
 
-
+# Want to contribute?
+Just edit a csv and make a pull request lol.
 
 # Credits 
 Ram2424: Helped a lot with balancing stats for enemies. <br> <br>
