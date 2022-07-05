@@ -28,9 +28,9 @@ Drag the `romfs` from the extracted zip into that folder. <br> <br>
 Now you can launch Miitopia and play the mod.
 
 # Want to contribute?
-First off, clone this repo (top right button "Fork"). <br> Make your changes on the mod on your fork and make a pull request here.
+First off, clone this repo (top right button "Fork"). <br> Make your changes on the mod on your fork and make a pull request here with a a detaield description.
 
-Please only make a pul request if you put multiple changes. I won't just accept one change. 
+You can edit your pull request multiple times for any edits you make.
 
 You can use this sheet to refer to what each csv files contains.
 https://docs.google.com/spreadsheets/d/1dGGXvCCSac0z-NZ3-5-QtMc-fa3f46HvJNMhnrN7Igw/edit#gid=2128008231
