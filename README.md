@@ -1,13 +1,7 @@
 # Miitopia-But-Harder
 ![Hard_mode_logo](https://user-images.githubusercontent.com/82438230/177342051-44f6c53e-7093-4acd-acbc-80856acc7838.png)
 
-Miitopia mod that makes the game substantially harder through various RomFS edits. Such as: <br>
--Increasing enemy stats <br>
--Increasing enemy turn amounts <br>
--Adjusting sprinkle amounts <br>
--Various Job stats adjustments <br>
--Various Job Skill adjustments <br>
--Horse Nerfs <br>
+Miitopia mod that makes the game substantially harder through various RomFS edits.
 
 # Installation instructions 
 Go to the "Releases" page and the download the latest version of the mod for your console, then unzip the file you downloaded.
