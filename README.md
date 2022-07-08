@@ -1,10 +1,10 @@
 # Miitopia-But-Harder
 ![Hard_mode_logo](https://user-images.githubusercontent.com/82438230/177342051-44f6c53e-7093-4acd-acbc-80856acc7838.png)
 
-Miitopia mod that makes the game substantially harder through various RomFS edits.
+A Miitopia mod that makes the game substantially harder through various RomFS edits.
 
 # Installation instructions 
-Go to the "Releases" page and the download the latest version of the mod for your console, then unzip the file you downloaded.
+Go to the "Releases" page and download the latest version of the mod for your console, then unzip the file you downloaded.
 
 ## For Switch Emulator (Yuzu/Ryujinx)
 Open your preferred emulator, and make sure Miitopia is added as a game directory. <br> Right click Miitopia and click the button that is for your emulator
@@ -14,7 +14,7 @@ Yuzu: `Open Mod Data Location` <br> Ryujinx: `Open Mods Directory`
 Drag the Extracted zip folder into that directory. Now bootup the game and check if the title screen loaded.
 
 ## For a homebrewed Switch
-Open your microSD card, and create a folder in `atmosphere\contents\` called `01007DA0140E8000`. <br> If any of these folders don't exist, make those folders. 
+Open your microSD card, and create a folder in `atmosphere\contents\` called `01007DA0140E8000`. <br> If any of these folders don't exist, create said folders. 
 
 Drag the `romfs` folder from the zip you extracted earlier into the newly created directory. 
 <br> <br> Now you can play the mod.
@@ -28,7 +28,9 @@ Drag the `romfs` from the extracted zip into that folder. <br> <br>
 Now you can launch Miitopia and play the mod.
 
 # Want to contribute?
-First off, clone this repo (top right button "Fork"). <br> Make your changes on the mod on your fork and make a pull request here.
+First off, clone this repo (top right button "Fork"). <br> Make your changes on the mod on your fork and make a pull request here with a detailed description.
+
+You can edit your pull request multiple times for any edits you make.
 
 You can use this sheet to refer to what each csv files contains.
 https://docs.google.com/spreadsheets/d/1dGGXvCCSac0z-NZ3-5-QtMc-fa3f46HvJNMhnrN7Igw/edit#gid=2128008231
