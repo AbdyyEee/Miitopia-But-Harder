@@ -43,5 +43,6 @@ Ram2424: Helped a lot with balancing stats for enemies. <br> <br>
 Puffy: Made the title screen banner. <br><br>
 Katsuma55: Made the text at the bottom of the title screen. <br><br>
 Kobazco: Creator of the param sheet, which helped a lot with orginzation.<br><br>
-Mrpirate02: Gave valuable feedback. <br><br>
 BH: Translated title screen to japanese<br><br>
+Mrpirate02: Gave valuable feedback. <br><br>
+Lewinham: Gave valuable feedback, which resulted in lots of changes. 
