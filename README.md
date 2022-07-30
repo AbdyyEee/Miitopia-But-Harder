@@ -40,11 +40,11 @@ Check out Lewinham`s take on my mod with Miitopia But Harder Deluxe [here](https
 
 # Credits 
 ## Mod workers
-  Ram2424: Helped a lot with balancing stats for enemies. <br> 
-  Puffy: Made the title screen banner. <br>
-# Misc help
-  Katsuma55: Made the text at the bottom of the title screen. <br>
-  Kobazco: Creator of the param sheet, which helped a lot with orginzation.<br>
-  BH: Translated title screen to japanese<br>
-  Mrpirate02: Gave valuable feedback. <br>
+Ram2424: Helped a lot with balancing stats for enemies. <br> 
+Puffy: Made the title screen banner. <br>
+## Misc help
+Katsuma55: Made the text at the bottom of the title screen. <br>
+Kobazco: Creator of the param sheet, which helped a lot with orginzation.<br>
+BH: Translated title screen to japanese <br>
+Mrpirate02: Gave valuable feedback. <br>
 Lewinham: Gave valuable feedback, which resulted in lots of changes. 
