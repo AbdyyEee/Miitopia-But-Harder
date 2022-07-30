@@ -36,7 +36,7 @@ You can use [this](https://docs.google.com/spreadsheets/d/1dGGXvCCSac0z-NZ3-5-Qt
 
 
 # Want an even harder challenge?
-Check out Lewinham`s take on my mod with Miitopia But Harder Deluxe [here](https://github.com/Lewinham/Miitopia-Hard-Mode-Deluxe-Mod)
+Check out Lewinham's take on my mod with Miitopia But Harder Deluxe [here](https://github.com/Lewinham/Miitopia-Hard-Mode-Deluxe-Mod)
 
 # Credits 
 ## Mod workers
