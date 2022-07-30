@@ -23,7 +23,7 @@ Drag the `romfs` folder from the zip you extracted earlier into the newly create
 Make sure Miitopia is added as a game directory. <br> Right click Miitopia and click `Open Mods location`. <br> Drag the `romfs` folder from the zip you extracted earlier into the mod directoory.
 
 ## For a homebrewed 3DS
-On your SD Card, navigate to  a folder called ```luma\titles\```. <br> If this folder hasn't been made, you can make it. <br> Inside that directory, create another folder named with the title-id depending on your region. <br> <br>US: `00040000001B4E00` <br> EU: `00040000001B4F00` <br> JP: `0004000000178800` <br> <br>
+On your SD Card, navigate to  a folder called ```luma\titles\```. <br> If this folder hasn't been made, you can make it. <br> Inside that directory, create another folder named with the title-id depending on your region. <br> <br>US: `00040000001B4E00` <br> EU: `00040000001B4F00` <br> <br>
 Drag the `romfs` from the extracted zip into that folder. <br> <br>
 Now you can launch Miitopia and play the mod.
 
