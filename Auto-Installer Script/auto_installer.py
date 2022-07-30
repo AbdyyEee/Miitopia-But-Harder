@@ -29,59 +29,48 @@ the Miitopia mod directory,
 If you know what you are doing or are a modder, make sure no sarc conflict with any of mine.
 
 ** Press "OK" to continue **
-"""
+""",
 )
 
 # Checking game version True = 3DS, False = Switch:
 if inital_popup:
     game_version = tkinter.messagebox.askyesno(
-    title=TITLE,
-    message="""Are you playing on the 3DS version? 
-(Yes for 3DS, No for Switch)"""
+        title=TITLE,
+        message="""Are you playing on the 3DS version? 
+(Yes for 3DS, No for Switch)""",
     )
-    # -- 3DS -- 
+    # -- 3DS --
     if game_version:
         download_and_move_3ds()
         tkinter.messagebox.askokcancel(
             title=TITLE,
-            message="Succesfully installed, launch your version of Miitopia and check if the title-screen has loaded."
-            )
-    # -- Switch -- 
+            message="Succesfully installed, launch your version of Miitopia and check if the title-screen has loaded.",
+        )
+    # -- Switch --
     if not game_version:
-        switch_version = tkinter.messagebox.askyesno(title=TITLE, message="""Are you on Yuzu or Ryujinx?  (
-Yes for Yuzu, No for Ryujinx)""")
+        switch_version = tkinter.messagebox.askyesno(
+            title=TITLE,
+            message="""Are you on Yuzu or Ryujinx?  (
+Yes for Yuzu, No for Ryujinx)""",
+        )
         if switch_version:
             download_and_move_switch("Yuzu")
             tkinter.messagebox.askokcancel(
-            title=TITLE,
-            message="Succesfully installed, launch your version of Miitopia and check if the title-screen has loaded."
+                title=TITLE,
+                message="Succesfully installed, launch your version of Miitopia and check if the title-screen has loaded.",
             )
         if not switch_version:
             download_and_move_switch("Ryujinx")
             tkinter.messagebox.askokcancel(
-            title=TITLE,
-            message="Succesfully installed, launch your version of Miitopia and check if the title-screen has loaded."
+                title=TITLE,
+                message="Succesfully installed, launch your version of Miitopia and check if the title-screen has loaded.",
             )
 
 # Removing any leftover files
-try:    
+try:
     rmtree("Miitopia But Harder Version 2.0 Final Release Switch Version")
 except:
     # zip files are not folders so remove it here
     remove("Miitopia.But.Harder.3DS.Ver.2.0.zip")
     remove("Miitopia.but.Harder.Switch.Ver.2.0.zip")
     rmtree("romfs")
-
-
-
-
-
-
-        
-        
-
-            
-
-       
-
-
