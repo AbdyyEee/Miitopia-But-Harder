@@ -41,10 +41,10 @@ def download_and_move_3ds() -> None:
 
 def download_and_move_switch(emulator: str) -> None:
     """Downloads the latest release of the Hard Mode mod on Github and automatically
-    extracts and inserts the file into the Yuzu mod directory.
+    extracts and inserts the file into the Yuzu or Ryujinx mod directory.
 
-    if the parameter "emulator" is set to "Ryujinx", it will move all the folders into
-    the ryujinx mod paths, and vise versa, if it is set to Yuzu, it will do the same action.
+    The "emulator" parameter determines which emulator's file paths the script should use. The only options are 
+    Ryujinx and Yuzu. 
     """
     # Downloading
     download(LATEST_SWITCH_VERSION)
