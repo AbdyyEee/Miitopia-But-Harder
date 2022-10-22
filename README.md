@@ -15,8 +15,7 @@ Drag the Extracted zip folder into that directory.
 
 ## For a homebrewed Switch
 Open your microSD card, and create a folder in `atmosphere\contents\` called `01007DA0140E8000`. <br> If any of these folders don't exist, create said folders. 
-<br> <br> 
-
+<br> 
 
 ## For Citra
 Make sure Miitopia is added as a game directory. <br> Right click Miitopia and click `Open Mods location`. <br> Drag the `romfs` folder from the zip you extracted earlier into the mod directoory.
