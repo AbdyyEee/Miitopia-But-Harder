@@ -1,7 +1,7 @@
 # Miitopia-But-Harder
 ![Hard_mode_logo](https://user-images.githubusercontent.com/82438230/177342051-44f6c53e-7093-4acd-acbc-80856acc7838.png)
 
-A Miitopia mod that makes the game substantially harder through various RomFS edits.
+Miitopia mod that makes the game substantially harder through various RomFS edits. 3DS and Switch supported.
 
 # Installation instructions 
 Go to the "Releases" page and download the latest version of the mod for your console, then unzip the file you downloaded. Once you have followed the steps for your console/emulator of choice, bootup Miitopia and check if the title-screen has loaded. This will indicate that the mod has been installed.
