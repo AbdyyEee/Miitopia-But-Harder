@@ -22,9 +22,7 @@ Make sure Miitopia is added as a game directory. <br> Right click Miitopia and c
 
 ## For a homebrewed 3DS
 On your SD Card, navigate to  a folder called ```luma\titles\```. <br> If this folder hasn't been made, you can make it. <br> Inside that directory, create another folder named with the title-id depending on your region. <br> <br>US: `00040000001B4E00` <br> EU: `00040000001B4F00` <br> <br>
-Drag the `romfs` from the extracted zip into that folder. <br> <br>
-
-Now bootup the game and check if the title screen loaded.
+Drag the `romfs` from the extracted zip into that folder. <br> 
 
 # Want to contribute?
 First off, clone this repo (top right button "Fork"). <br> Make your changes on the mod on your fork and make a pull request here with a detailed description.
