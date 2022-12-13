@@ -31,7 +31,6 @@ You can edit your pull request multiple times for any edits you make.
 
 You can use [this](https://docs.google.com/spreadsheets/d/1dGGXvCCSac0z-NZ3-5-QtMc-fa3f46HvJNMhnrN7Igw/edit#gid=2128008231) sheet to refer to what each csv files contains.
 
-
 # Want an even harder challenge?
 Check out Lewinham's take on my mod with Miitopia But Harder Deluxe [here](https://github.com/Lewinham/Miitopia-Hard-Mode-Deluxe-Mod)
 
